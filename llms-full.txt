@@ -1,0 +1,51 @@
+# Geotecnia1 — Chiguayante
+
+> Geotechnical engineering services in Chiguayante, Chile.
+
+## Services
+- [Aislacion Sismica](https://chiguayante.geotecnia1.xyz/aislacion-sismica/)
+- [Anclajes](https://chiguayante.geotecnia1.xyz/anclajes/)
+- [Calicatas](https://chiguayante.geotecnia1.xyz/calicatas/)
+- [Cbr Vial](https://chiguayante.geotecnia1.xyz/cbr-vial/)
+- [Cimentaciones](https://chiguayante.geotecnia1.xyz/cimentaciones/)
+- [Columnas Grava](https://chiguayante.geotecnia1.xyz/columnas-grava/)
+- [Densidad Cono Arena](https://chiguayante.geotecnia1.xyz/densidad-cono-arena/)
+- [Ensayo Cpt](https://chiguayante.geotecnia1.xyz/ensayo-cpt/)
+- [Ensayos Proctor](https://chiguayante.geotecnia1.xyz/ensayos-proctor/)
+- [Estabilidad Taludes](https://chiguayante.geotecnia1.xyz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chiguayante.geotecnia1.xyz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chiguayante.geotecnia1.xyz/excavaciones-subterraneo/)
+- [Exploracion](https://chiguayante.geotecnia1.xyz/exploracion/)
+- [Geotecnia Vial](https://chiguayante.geotecnia1.xyz/geotecnia-vial/)
+- [Granulometria](https://chiguayante.geotecnia1.xyz/granulometria/)
+- [Inyecciones](https://chiguayante.geotecnia1.xyz/inyecciones/)
+- [Laboratorio In Situ](https://chiguayante.geotecnia1.xyz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chiguayante.geotecnia1.xyz/laboratorio-lab/)
+- [Licuefaccion](https://chiguayante.geotecnia1.xyz/licuefaccion/)
+- [Limites Atterberg](https://chiguayante.geotecnia1.xyz/limites-atterberg/)
+- [Losas Fundacion](https://chiguayante.geotecnia1.xyz/losas-fundacion/)
+- [Masw](https://chiguayante.geotecnia1.xyz/masw/)
+- [Mejoramiento](https://chiguayante.geotecnia1.xyz/mejoramiento/)
+- [Microzonificacion Sismica](https://chiguayante.geotecnia1.xyz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chiguayante.geotecnia1.xyz/monitoreo-excavaciones/)
+- [Muros Contencion](https://chiguayante.geotecnia1.xyz/muros-contencion/)
+- [Pavimento Flexible](https://chiguayante.geotecnia1.xyz/pavimento-flexible/)
+- [Pavimento Rigido](https://chiguayante.geotecnia1.xyz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://chiguayante.geotecnia1.xyz/permeabilidad-in-situ/)
+- [Pilotes](https://chiguayante.geotecnia1.xyz/pilotes/)
+- [Refraccion Sismica](https://chiguayante.geotecnia1.xyz/refraccion-sismica/)
+- [Resistividad](https://chiguayante.geotecnia1.xyz/resistividad/)
+- [Sismica](https://chiguayante.geotecnia1.xyz/sismica/)
+- [Sondajes Spt](https://chiguayante.geotecnia1.xyz/sondajes-spt/)
+- [Taludes](https://chiguayante.geotecnia1.xyz/taludes/)
+- [Triaxial](https://chiguayante.geotecnia1.xyz/triaxial/)
+- [Tuneles Suelo Blando](https://chiguayante.geotecnia1.xyz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://chiguayante.geotecnia1.xyz/vibrocompactacion/)
+- [Zapatas](https://chiguayante.geotecnia1.xyz/zapatas/)
+
+## Contact
+- Website: https://chiguayante.geotecnia1.xyz/
+
+## About
+This site provides geotechnical engineering services in Chiguayante, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
